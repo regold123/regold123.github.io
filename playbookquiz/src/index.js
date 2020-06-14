@@ -27,7 +27,7 @@ class QuizBee extends Component {
       });
     }
     this.setState({
-      responses: this.state.responses < 6 ? this.state.responses +1 : 6
+      responses: this.state.responses < 10 ? this.state.responses +1 : 10
     });
   };
 
@@ -48,7 +48,7 @@ class QuizBee extends Component {
       <div className="container">
         <div className='title'>QuizBee</div>
         {this.state.questionBank.length > 0 &&
-          this.state.responses < 6 &&
+          this.state.responses < 10 &&
           this.state.questionBank.map(
             ({question, answers, correct, questionId}) => (
               <QuestionBox
@@ -60,7 +60,7 @@ class QuizBee extends Component {
             )
           )}
 
-          {this.state.responses === 6 ? (<Result score={this.state.score} playAgain={this.playAgain} />) : null}
+          {this.state.responses === 10 ? (<Result score={this.state.score} playAgain={this.playAgain} />) : null}
       </div>
     );
   }
