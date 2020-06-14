@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59fdce594c2f28aed5bdbdd047c83285",
+    "revision": "ce950a82e20ec936d6a4018d37f6b306",
     "url": "/playbookquiz/index.html"
   },
   {
-    "revision": "e20fe572a7db99ed5368",
+    "revision": "f94e125f04b4d29a514f",
     "url": "/playbookquiz/static/css/main.ab92684e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/playbookquiz/static/js/2.2b3d42ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e20fe572a7db99ed5368",
-    "url": "/playbookquiz/static/js/main.e52ad89c.chunk.js"
+    "revision": "f94e125f04b4d29a514f",
+    "url": "/playbookquiz/static/js/main.d54289e8.chunk.js"
   },
   {
     "revision": "533f18968a53d9485931",

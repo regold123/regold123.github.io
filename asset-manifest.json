@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/playbookquiz/static/css/main.ab92684e.chunk.css",
-    "main.js": "/playbookquiz/static/js/main.e52ad89c.chunk.js",
-    "main.js.map": "/playbookquiz/static/js/main.e52ad89c.chunk.js.map",
+    "main.js": "/playbookquiz/static/js/main.d54289e8.chunk.js",
+    "main.js.map": "/playbookquiz/static/js/main.d54289e8.chunk.js.map",
     "runtime-main.js": "/playbookquiz/static/js/runtime-main.cde9dfdf.js",
     "runtime-main.js.map": "/playbookquiz/static/js/runtime-main.cde9dfdf.js.map",
     "static/js/2.2b3d42ec.chunk.js": "/playbookquiz/static/js/2.2b3d42ec.chunk.js",
     "static/js/2.2b3d42ec.chunk.js.map": "/playbookquiz/static/js/2.2b3d42ec.chunk.js.map",
     "index.html": "/playbookquiz/index.html",
-    "precache-manifest.b5933020d7fb675531fc8cc618aa237c.js": "/playbookquiz/precache-manifest.b5933020d7fb675531fc8cc618aa237c.js",
+    "precache-manifest.60caf0e03e67c6cb137e752910135dfd.js": "/playbookquiz/precache-manifest.60caf0e03e67c6cb137e752910135dfd.js",
     "service-worker.js": "/playbookquiz/service-worker.js",
     "static/css/main.ab92684e.chunk.css.map": "/playbookquiz/static/css/main.ab92684e.chunk.css.map",
     "static/js/2.2b3d42ec.chunk.js.LICENSE.txt": "/playbookquiz/static/js/2.2b3d42ec.chunk.js.LICENSE.txt",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.cde9dfdf.js",
     "static/js/2.2b3d42ec.chunk.js",
     "static/css/main.ab92684e.chunk.css",
-    "static/js/main.e52ad89c.chunk.js"
+    "static/js/main.d54289e8.chunk.js"
   ]
 }
